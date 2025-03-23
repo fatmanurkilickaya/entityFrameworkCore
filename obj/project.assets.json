@@ -3084,11 +3084,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/fatmanurkilickaya/Dropbox/Kayseri Üniversitesi/BAHAR/2024-2025_Egitim_Ogretim/internet_programciligi_II/aspnetcore/entityFramework/entityFramework.csproj",
+      "projectUniqueName": "/Users/fatmanurkilickaya/Dropbox/Kayseri Üniversitesi/BAHAR/2024-2025_Egitim_Ogretim/internet_programciligi_II/aspnetcore/entityFramework/entityFramework.csproj",
       "projectName": "entityFramework",
-      "projectPath": "/Users/fatmanurkilickaya/Dropbox/Kayseri Üniversitesi/BAHAR/2024-2025_Egitim_Ogretim/internet_programciligi_II/aspnetcore/entityFramework/entityFramework.csproj",
+      "projectPath": "/Users/fatmanurkilickaya/Dropbox/Kayseri Üniversitesi/BAHAR/2024-2025_Egitim_Ogretim/internet_programciligi_II/aspnetcore/entityFramework/entityFramework.csproj",
       "packagesPath": "/Users/fatmanurkilickaya/.nuget/packages/",
-      "outputPath": "/Users/fatmanurkilickaya/Dropbox/Kayseri Üniversitesi/BAHAR/2024-2025_Egitim_Ogretim/internet_programciligi_II/aspnetcore/entityFramework/obj/",
+      "outputPath": "/Users/fatmanurkilickaya/Dropbox/Kayseri Üniversitesi/BAHAR/2024-2025_Egitim_Ogretim/internet_programciligi_II/aspnetcore/entityFramework/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/fatmanurkilickaya/.nuget/NuGet/NuGet.Config"

@@ -218,3 +218,4 @@
 /Users/fatmanurkilickaya/Dropbox/Kayseri Üniversitesi/BAHAR/2024-2025_Egitim_Ogretim/internet_programciligi_II/aspnetcore/entityFramework/bin/Debug/net9.0/runtimes/win-x86/native/e_sqlite3.dll
 /Users/fatmanurkilickaya/Dropbox/Kayseri Üniversitesi/BAHAR/2024-2025_Egitim_Ogretim/internet_programciligi_II/aspnetcore/entityFramework/obj/Debug/net9.0/entityFramework.csproj.AssemblyReference.cache
 /Users/fatmanurkilickaya/Dropbox/Kayseri Üniversitesi/BAHAR/2024-2025_Egitim_Ogretim/internet_programciligi_II/aspnetcore/entityFramework/obj/Debug/net9.0/entityFr.FF0D2780.Up2Date
+/Users/fatmanurkilickaya/Dropbox/Kayseri Üniversitesi/BAHAR/2024-2025_Egitim_Ogretim/internet_programciligi_II/aspnetcore/entityFramework/obj/Debug/net9.0/entityFramework.sourcelink.json

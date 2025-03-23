@@ -17,57 +17,73 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = entityFramework
 build_property.RootNamespace = entityFramework
-build_property.ProjectDir = /Users/fatmanurkilickaya/Dropbox/Kayseri Üniversitesi/BAHAR/2024-2025_Egitim_Ogretim/internet_programciligi_II/aspnetcore/entityFramework/
+build_property.ProjectDir = /Users/fatmanurkilickaya/Dropbox/Kayseri Üniversitesi/BAHAR/2024-2025_Egitim_Ogretim/internet_programciligi_II/aspnetcore/entityFramework/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/fatmanurkilickaya/Dropbox/Kayseri Üniversitesi/BAHAR/2024-2025_Egitim_Ogretim/internet_programciligi_II/aspnetcore/entityFramework
+build_property.MSBuildProjectDirectory = /Users/fatmanurkilickaya/Dropbox/Kayseri Üniversitesi/BAHAR/2024-2025_Egitim_Ogretim/internet_programciligi_II/aspnetcore/entityFramework
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
 [/Users/fatmanurkilickaya/Dropbox/Kayseri Üniversitesi/BAHAR/2024-2025_Egitim_Ogretim/internet_programciligi_II/aspnetcore/entityFramework/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = SW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/fatmanurkilickaya/Dropbox/Kayseri Üniversitesi/BAHAR/2024-2025_Egitim_Ogretim/internet_programciligi_II/aspnetcore/entityFramework/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fatmanurkilickaya/Dropbox/Kayseri Üniversitesi/BAHAR/2024-2025_Egitim_Ogretim/internet_programciligi_II/aspnetcore/entityFramework/Views/Kurs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvS3Vycy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fatmanurkilickaya/Dropbox/Kayseri Üniversitesi/BAHAR/2024-2025_Egitim_Ogretim/internet_programciligi_II/aspnetcore/entityFramework/Views/Kurs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvS3Vycy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fatmanurkilickaya/Dropbox/Kayseri Üniversitesi/BAHAR/2024-2025_Egitim_Ogretim/internet_programciligi_II/aspnetcore/entityFramework/Views/Kurs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvS3Vycy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/fatmanurkilickaya/Dropbox/Kayseri Üniversitesi/BAHAR/2024-2025_Egitim_Ogretim/internet_programciligi_II/aspnetcore/entityFramework/Views/Kurs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvS3Vycy9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/fatmanurkilickaya/Dropbox/Kayseri Üniversitesi/BAHAR/2024-2025_Egitim_Ogretim/internet_programciligi_II/aspnetcore/entityFramework/Views/Ogrenci/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Q3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT2dyZW5jaS9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/fatmanurkilickaya/Dropbox/Kayseri Üniversitesi/BAHAR/2024-2025_Egitim_Ogretim/internet_programciligi_II/aspnetcore/entityFramework/Views/Ogrenci/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = RGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT2dyZW5jaS9EZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/fatmanurkilickaya/Dropbox/Kayseri Üniversitesi/BAHAR/2024-2025_Egitim_Ogretim/internet_programciligi_II/aspnetcore/entityFramework/Views/Ogrenci/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = RWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT2dyZW5jaS9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/fatmanurkilickaya/Dropbox/Kayseri Üniversitesi/BAHAR/2024-2025_Egitim_Ogretim/internet_programciligi_II/aspnetcore/entityFramework/Views/Ogrenci/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = SW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT2dyZW5jaS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/fatmanurkilickaya/Dropbox/Kayseri Üniversitesi/BAHAR/2024-2025_Egitim_Ogretim/internet_programciligi_II/aspnetcore/entityFramework/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = RXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/fatmanurkilickaya/Dropbox/Kayseri Üniversitesi/BAHAR/2024-2025_Egitim_Ogretim/internet_programciligi_II/aspnetcore/entityFramework/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = X1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/fatmanurkilickaya/Dropbox/Kayseri Üniversitesi/BAHAR/2024-2025_Egitim_Ogretim/internet_programciligi_II/aspnetcore/entityFramework/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = X1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/fatmanurkilickaya/Dropbox/Kayseri Üniversitesi/BAHAR/2024-2025_Egitim_Ogretim/internet_programciligi_II/aspnetcore/entityFramework/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = X1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/fatmanurkilickaya/Dropbox/Kayseri Üniversitesi/BAHAR/2024-2025_Egitim_Ogretim/internet_programciligi_II/aspnetcore/entityFramework/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = X0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-6cd6yimiru
